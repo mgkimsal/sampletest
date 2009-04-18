@@ -1,4 +1,5 @@
 <?php
-// adding stuff to master branch
-ECho "sample php file";
+// adding a comment
+// which might be a patch
+echo "sample php file";
 ?>
