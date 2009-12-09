@@ -1,4 +1,4 @@
 <?php
 // adding stuff to master branch
-ECho "sample php file";
+echo "sample php file";
 ?>
